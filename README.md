@@ -1,11 +1,13 @@
-#Tesla Clone
+# Tesla Clone
+
+https://user-images.githubusercontent.com/86918112/134260873-aa54d146-3a7d-4c18-a9c7-1e3b65c00e73.mp4
 
 
 <div align="center" style="margin: 20px; text-align: center">
 
-  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/leoronne/tesla-homepage-ui-clone?color=green&style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/leoronne/tesla-homepage-ui-clone?style=flat-square)
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/HenriqueCSaraiva/Tesla-Clone?color=green&style=flat-square)
+  ![GitHub top language](https://img.shields.io/github/languages/top/HenriqueCSaraiva/Tesla-Clone?style=flat-square)
 
 </div>
 
@@ -16,15 +18,14 @@
   <a href="#techs-rocket">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation-wrench">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#start-on">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing-">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license-memo">License</a>
 </p>
 
 ##
 
-<p align="center">
-  <img src="src\assets\img\banner.png"/>
-</p>
+![Layout 1](https://user-images.githubusercontent.com/86918112/134261354-4e6a6c47-fd2b-4dda-9d2d-794fdce15b74.png)
+
+
 
 <br>
 
@@ -34,34 +35,21 @@ This repo contains an UI clone from Tesla homepage.
 
 <br>
 
-Deployed [here](https://tesla.ui-clone.ronne.dev/).
-
-<br>
-
-<p align="center">
-  <img src="src\assets\img\tesla-1.gif"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="src\assets\img\tesla-2.gif"/>
-</p>
+![Layout 2](https://user-images.githubusercontent.com/86918112/134261550-4d817b5c-8946-4a8c-b10a-dd132af7e235.png)
 
 <br>
 
 ## Techs :rocket:
 
 - [x] [ReactJS](https://reactjs.org);
-- [x] [TypeScript](https://www.typescriptlang.org/);
-- [x] [Framer Motion](https://www.framer.com/motion/);
+- [x] [Redux](https://redux.js.org/);
 - [x] [Styled Components](https://styled-components.com/).
 
 <br>
 
 ## Installation :wrench:
 
-First you need to clone the project using `git clone https://github.com/leoronne/tesla-homepage-ui-clone.git`.
+First you need to clone the project using `git clone https://github.com/HenriqueCSaraiva/Tesla-Clone`.
 
 You can install the application using `npm install` or `yarn install` on the root dir.
 
@@ -73,17 +61,10 @@ To start the application interface just run `npm start` or `yarn start` on the r
 
 <br>
 
-## Contributing 🤔
-
-Please read [CONTRIBUTING](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests to the project.
-
-<br>
-
 ## License :memo:
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/LICENSE)**;
-- Copyright 2020 © <a href="https://github.com/leoronne" target="_blank">Leonardo Ronne</a>.
-
+- **[MIT license](https://github.com/HenriqueCSaraiva/Tesla-Clone/blob/add-license-1/LICENSE)**;
+- Copyright 2021 © <a href="https://github.com/HenriqueCSaraiva" target="_blank">Henrique Saraiva</a>.
 ##

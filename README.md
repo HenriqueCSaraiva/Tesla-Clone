@@ -25,6 +25,11 @@ https://user-images.githubusercontent.com/86918112/134260873-aa54d146-3a7d-4c18-
 
 ![Layout 1](https://user-images.githubusercontent.com/86918112/134261354-4e6a6c47-fd2b-4dda-9d2d-794fdce15b74.png)
 
+
+
+<br>
+
+## Access the app on Firebase Hosting 🔥🔥
 https://tesla-clone-df0c7.web.app/
 
 https://tesla-clone-df0c7.firebaseapp.com/
